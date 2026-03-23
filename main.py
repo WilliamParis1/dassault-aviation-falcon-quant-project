@@ -24,7 +24,6 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import matplotlib.gridspec as gridspec
-from matplotlib.patches import FancyBboxPatch
 from datetime import datetime
 
 # Collectors
